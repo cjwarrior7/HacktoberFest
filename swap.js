@@ -1,10 +1,10 @@
 //JavaScript program to swap two variables
 
 //take input from the users
-let x = prompt('Enter the first variable: ');
-let y = prompt('Enter the second variable: ');
-let c = prompt('Enter the first variable: ');
-let d = prompt('Enter the second variable: ');
+let x = prompt('Enter the first variable name: ');
+let y = prompt('Enter the second variable name: ');
+let c = prompt('Enter the first variable name: ');
+let d = prompt('Enter the second variable name: ');
 
 //create a temporary variable
 let temp;
